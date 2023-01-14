@@ -14,6 +14,6 @@ A cube. If you walk along a side and get to an edge, things will be too sharp an
 The landscape of a mountain. Assuming that the peak is perfectly sharp, at this point things will not look like a plane.
 An hourglass. Assuming that the intersection of the two halves is a single point, the rule will be broken here.
 
-##Intution of Manifolds 
+## Intution of Manifolds 
 The common theme of these examples is that they are somewhat smooth — meaning that there are no sharp spikes or edges. The overall shape of the object can be amorphous, which is nice when describing datasets that don’t have rigid boundaries.
 
